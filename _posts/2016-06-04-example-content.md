@@ -1,9 +1,10 @@
 ---
+title: Example content for posts
+date: 2016-06-04 00:00:00 Z
+categories:
+- others
 layout: post
-title: Example content for posts  
-categories: others
 ---
-
 
 <p><small>This demo page has been used from <a href="http://jasonm23.github.io/markdown-css-themes/" target="_blank">http://jasonm23.github.io/markdown-css-themes/</a>.</small></p>
 

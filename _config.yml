@@ -1,26 +1,31 @@
+---
 title: Alfred Tang
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 description: A Portfolio
 author: Alfred Tang
-logo: /static/img/avatar.png
+logo: "/static/img/avatar.png"
 github: https://github.com/alfred1137
 about: Associate Consultant - Corporate Sustainability
-
-baseurl: ""
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
-
+baseurl: ''
+url: https://codeasashu.github.io/hcz-jekyll-blog
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
-
 share:
-  twitter_username: \#
-  fb_appid: 000000000000
-
-
+  twitter_username: "\\#"
+  fb_appid: 0
 enableTags: true
 tagarray: []
-
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
-gems: [jekyll-paginate, jekyll-gist]
+gems:
+- jekyll-paginate
+- jekyll-gist
