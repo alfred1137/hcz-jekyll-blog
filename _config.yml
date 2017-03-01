@@ -1,9 +1,9 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Alfred Tang
+description: A Portfolio
+author: Alfred Tang
 logo: /static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+github: https://github.com/alfred1137
+about: Associate Consultant - Corporate Sustainability
 
 baseurl: ""
 url: "https://codeasashu.github.io/hcz-jekyll-blog"
