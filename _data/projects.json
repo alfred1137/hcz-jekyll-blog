@@ -21,13 +21,6 @@
 		"tags": ["HKEx ESG","Content Development","Stakeholder Engagement"]
 	},
 	{
-		"name": "New  World  Department Store  China  Limited Sustainability Report 2015",
-		"image": "NWDS-2015.jpg",
-		"url": "http://www.nwds.com.hk/wp-content/files_mf/esg2015_eng.pdf",
-		"date": "Dec 2016",
-		"tags": ["GRI G4","Content Development","Data Managemenet"]
-	},
-	{
 		"name": "New  World  Department Store  China  Limited Sustainability Report 2016",
 		"image": "NWDS-2016.jpg",
 		"url": "http://www.nwds.com.hk/wp-content/files_mf/esg2016_eng.pdf",
@@ -111,4 +104,11 @@
 		"date": "Dec 2015",
 		"tags": ["GRI G4","Verification"]
 	},
+	{
+		"name": "New  World  Department Store  China  Limited Sustainability Report 2015",
+		"image": "NWDS-2015.jpg",
+		"url": "http://www.nwds.com.hk/wp-content/files_mf/esg2015_eng.pdf",
+		"date": "Dec 2015",
+		"tags": ["GRI G4","Content Development","Data Managemenet"]
+	}
 ]
