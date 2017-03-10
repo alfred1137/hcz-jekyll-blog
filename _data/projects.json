@@ -1,30 +1,114 @@
 [
 	{
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"name": "Housing Authority Sustainability Report 2015/16",
+		"image": "HA_2016.jpg",
+		"url": "http://www.housingauthority.gov.hk/mini-site/hasr1516/common/index.html",
+		"date": "Jan 2017",
+		"tags": ["Project Management","GRI G4","Data Managemenet","Content Development"]
 	},
 	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["Android","PHP"]
-	},
-	{
-		"name": "Cool project 3",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
-	},
-	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
+		"name": "Architectural Services Department (ArchSD) Sustainability Report 2016",
+		"image": "ArchSD-2016.jpg",
+		"url": "https://www.archsd.gov.hk/archsd/html/report2016/en/index.html",
 		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
-	}
-
+		"tags": ["GRI G4","Stakeholder Engagement","Content Development"]
+	},
+	{
+		"name": "CITIC Resources Ltd. Environmental, Social and Governance Report 2015",
+		"image": "CITIC-2015.jpg",
+		"url": "http://resources.citic/eng/about/csr.htm",
+		"date": "Apr 2016",
+		"tags": ["HKEx ESG","Content Development"]
+	},
+	{
+		"name": "Drainage Services Department Sustainability Report 2015-2016",
+		"image": "placeholder.jpg",
+		"url": "http://www.dsd.gov.hk/Documents/SustainabilityReports/1516/en/index.html",
+		"date": "Jan 2017",
+		"tags": ["GRI G4","Stakeholder Engagement","Content Development"]
+	},
+	{
+		"name": "Housing Authority Sustainability Report 2014/15",
+		"image": "HA_2015.jpg",
+		"url": "http://www.housingauthority.gov.hk/mini-site/hasr1415/common/index.html",
+		"date": "Jan 2016",
+		"tags": ["GRI G4","Content Development"]
+	},
+	{
+		"name": "Construction Innovative Environmental Practices - The Hong Kong Construction Association, Limited",
+		"image": "HKCA-EnvGuide-2016.jpg",
+		"url": "http://www.hkca.com.hk/uploads/eversioin_docs/Construction%20Innovative%20Environmental%20Practices.pdf",
+		"date": "Apr 2016",
+		"tags": ["Content Development"]
+	},
+	{
+		"name": "I.T Annual Report 15/16 - ESG Section",
+		"image": "IT-1516.jpg",
+		"url": "https://www.ithk.com/storage/investors_relations/e0999_160614_AR.pdf",
+		"date": "Jun 2016",
+		"tags": ["HKEx ESG","Content Development","Data Managemenet"]
+	},
+	{
+		"name": "The Kowloon Motor Bus Co. (1933) Ltd. - KMB Sustainability Report 2016",
+		"image": "KMB-2016.jpg",
+		"url": "http://www.kmb.hk/chi/csr_2016/publication.pdf",
+		"date": "Dec 2016",
+		"tags": ["HKEx ESG","Content Development","Stakeholder Engagement"]
+	},
+	{
+		"name": "Modern Terminals CSR Report, Jul 2013 – Jun 2015 (Verification)",
+		"image": "ModernTerm-2015.jpg",
+		"url": "http://www.modernterminals.com/hkbu/uploaded/file/sustainability/20160606_MTL%20CSR%20Report%20English.pdf",
+		"date": "Jun 2016",
+		"tags": ["GRI G4","Verification"]
+	},
+	{
+		"name": "New World Group's Sustainability Report 2016 (Verification)",
+		"image": "NWD-2016.jpg",
+		"url": "http://sr.nwd.com.hk/2016/sr_en.pdf",
+		"date": "Oct 2016",
+		"tags": ["GRI G4","HKEX ESG","Verification"]
+	},
+	{
+		"name": "NWS Holdings Ltd. Sustainability Report 2016 (Verification)",
+		"image": "NWS-2016.jpg",
+		"url": "http://www.nws.com.hk/html/eng/pdf/srreport/NWS_SR2016_Eng.pdf",
+		"date": "Nov 2016",
+		"tags": ["GRI G4","Verification"]
+	},
+	{
+		"name": "NWS Holdings Ltd. Sustainability Report 2015 (Verification)",
+		"image": "NWS-2015.jpg",
+		"url": "http://www.nws.com.hk/html/eng/pdf/srreport/NWS_SR2015_Eng.pdf",
+		"date": "Dec 2015",
+		"tags": ["GRI G4","Verification"]
+	},
+	{
+		"name": "New  World  Department Store  China  Limited Sustainability Report 2016",
+		"image": "NWDS-2016.jpg",
+		"url": "http://www.nwds.com.hk/wp-content/files_mf/esg2016_eng.pdf",
+		"date": "Nov 2016",
+		"tags": ["GRI G4","HKEx ESG","Content Development","Data Managemenet"]
+	},
+	{
+		"name": "New  World  Department Store  China  Limited Sustainability Report 2015",
+		"image": "NWDS-2015.jpg",
+		"url": "http://www.nwds.com.hk/wp-content/files_mf/esg2015_eng.pdf",
+		"date": "Dec 2016",
+		"tags": ["GRI G4","Content Development","Data Managemenet"]
+	},
+	{
+		"name": "Shun Tak Holdings 2015 Sustainability Report",
+		"image": "ShunTak-2015.jpg",
+		"url": "http://www.shuntakgroup.com/en/doc/sustainability_report_2015.pdf",
+		"date": "Jun 2016",
+		"tags": ["GRI G4","HKEx ESG","Content Development","Data Managemenet","Stakeholder Engagement","Materiality Assessment"]
+	},
+	{
+		"name": "Towngas Sustainability Report 2015",
+		"image": "Towngas-2015.jpg",
+		"url": "https://www.towngas.com/sustainabilityRpt/2015/index-en.html",
+		"date": "Jul 2016",
+		"tags": ["GRI G4","Content Development","Stakeholder Engagement"]
+	},
 ]
