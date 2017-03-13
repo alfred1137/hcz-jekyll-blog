@@ -4,8 +4,4 @@ permalink: "/about/"
 layout: page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfZc9ar6vozfG_6CK1Lp7ISVzOpY8fvz-tne_hNsm0AbPiZfw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
