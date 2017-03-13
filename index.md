@@ -6,6 +6,7 @@ layout: default
 # Associate Consultant
 
 **Hong Kong Productivity Council**
+
 *Since July 2014*
 
 Joined as Trainee Consultant, underwent job rotation to different subject divisions during a two-year training. Currently lead data analyst in nine sustainability consulting projects and project supervisor in two sustainability reporting projects. Core service areas include:
@@ -20,7 +21,7 @@ Joined as Trainee Consultant, underwent job rotation to different subject divisi
 
 ---
 
-# Research Assistant
+# Research Assistant
 
 **Department of Geography, HKU**
 
@@ -34,7 +35,7 @@ Joined as Trainee Consultant, underwent job rotation to different subject divisi
 
 ---
 
-# Research Intern
+# Research Intern
 
 **Hong Kong Observatory**
 
