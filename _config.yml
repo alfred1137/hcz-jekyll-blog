@@ -1,6 +1,6 @@
 ---
 title: Alfred Tang
-timezone: UTC
+timezone: GMT+8
 collections:
   posts:
     title: Drafts
@@ -14,9 +14,9 @@ logo: "/static/img/avatar.png"
 github: https://github.com/alfred1137
 about: Associate Consultant - Corporate Sustainability
 baseurl: ''
-url: https://codeasashu.github.io/hcz-jekyll-blog
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+url: https://www.linkedin.com/in/alfred1137/
+disqus_shortname: 
+google_analytics: UA-93499097-1
 share:
   twitter_username: "\\#"
   fb_appid: 0
