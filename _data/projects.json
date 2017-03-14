@@ -49,6 +49,20 @@
 		"tags": ["GRI G4","Stakeholder Engagement","Content Development"]
 	},
 	{
+		"name": "Social Capital Builder (SCB) Awards",
+		"image": "SCB-CIIF.png",
+		"url": "http://www.ciif.gov.hk/en/scb-award/about-scb.html",
+		"date": "Oct 2016",
+		"tags": ["Award","Assessment"]
+	},
+	{
+		"name": "Hong Kong Awards for Environmental Excellence 2016",
+		"image": "HKAEE.png",
+		"url": "http://www.hkaee.gov.hk/eindex.html",
+		"date": "Jul 2016",
+		"tags": ["Award","Assessment"]
+	},
+	{
 		"name": "Towngas Sustainability Report 2015",
 		"image": "Towngas-2015.jpg",
 		"url": "https://www.towngas.com/sustainabilityRpt/2015/index-en.html",
@@ -89,6 +103,13 @@
 		"url": "http://www.hkca.com.hk/uploads/eversioin_docs/Construction%20Innovative%20Environmental%20Practices.pdf",
 		"date": "Apr 2016",
 		"tags": ["Content Development"]
+	},
+	{
+		"name": "FoodEver WasteNever Programme",
+		"image": "FoodEver_logo.png",
+		"url": "http://foodever.hk",
+		"date": "Mar 2016",
+		"tags": ["Award","Assessment","Training"]
 	},
 	{
 		"name": "Housing Authority Sustainability Report 2014/15",
